@@ -1,0 +1,16 @@
+.no1,.no3,.no5{
+ background-color : rgb(255, 182, 193);
+ font-family : "DejaVu Sans", sans-serif;
+}
+#no2{
+  color : blue;
+  font-size: 36px;
+  font-family: Verdana ,sans-serif;
+}
+#no4{
+  background-color: rgb(0,255,0);
+  font-weight: bold;
+}
+.no3,#no4{
+  font-size: 24px;
+}
